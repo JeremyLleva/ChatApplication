@@ -4,9 +4,7 @@
 
 ## Setup:
 
--cd into both server and client directory and run these commands
--npm i
--npm start
+-cd into both server and client directory and run 'npm i' then 'npm start' in both directories
 
 ## Introducation
 
